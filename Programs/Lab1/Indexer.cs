@@ -1,4 +1,5 @@
-﻿using System;
+﻿//4.Write a C# program how Name of Students are stored and retrieved using indexer.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

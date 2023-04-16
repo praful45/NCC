@@ -1,4 +1,5 @@
-﻿using System;
+﻿//3.Write a C# program to reverse element of an array.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

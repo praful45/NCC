@@ -1,4 +1,5 @@
-﻿using System;
+﻿//5.Write a C# program for showing single, multiple, multilevel and hierarchical inheritance.
+using System;
 
 namespace Lab1
 {

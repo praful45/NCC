@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lab1.Polymorphism</StartupObject>
+    <StartupObject>Lab1.AreaRectMultiInheritance</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Addition.cs" />
     <Compile Include="AddTwoDigit.cs" />
+    <Compile Include="AreaRectMultiInheritance.cs" />
     <Compile Include="ConstantDemo.cs" />
     <Compile Include="Indexer.cs" />
     <Compile Include="Inheritance.cs" />

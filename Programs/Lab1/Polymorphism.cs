@@ -1,4 +1,5 @@
-﻿using System;
+﻿//7.Write a C# program how virtual method are used in polymorphism.
+using System;
 
 namespace Lab1
 {

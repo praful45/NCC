@@ -1,4 +1,5 @@
-﻿using System;
+﻿//2.Write a C# program to display student Id and Name using automatic properties.
+using System;
 
 namespace Lab1
 {
