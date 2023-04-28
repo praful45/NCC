@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lab2.LINQSort</StartupObject>
+    <StartupObject>Lab2.CustomerDictonary</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
