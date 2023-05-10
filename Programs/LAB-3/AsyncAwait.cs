@@ -21,7 +21,7 @@ namespace LAB_3
         static void Main(string[] args)
         {
             //Q1
-            //CallProcess();  
+            //CallProcess();
             //Console.WriteLine("Program finished");
             //Console.ReadKey();
 
